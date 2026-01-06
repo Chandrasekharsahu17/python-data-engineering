@@ -52,6 +52,12 @@ list_2=list_1.split(",")
 logger.info(f"to check the split method in list {list_2}")
 
 
+#changing the variable into list directly
+
+
+a=("chandra sekhar sahu")
+a=list(a)
+print(a)
 
 
 
