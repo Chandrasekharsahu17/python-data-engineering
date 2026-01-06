@@ -1,6 +1,7 @@
-# Python Data Engineering Practice 🚀
+### Python Data Engineering Practice 🚀
 
-Daily Python practice focused on **Data Engineering fundamentals**.
+Daily Python practice focused on 
+**Data Engineering fundamentals**.
 
 ---
 
@@ -32,17 +33,19 @@ Build strong Python skills for:
 - [x] Day 02 – print Statement
 - [x] Day 03 – operators and Assignement 1
 - [x] Day 04 – if-else
-- [x] Day 05 - list-1 and list-2 Assignment 2
-- [x] Day 06 -  
-- [x] Day 07
-- [x] Day 08
-- [x] Day 09
-- [x] Day 10
+- [x] Day 05 - list-1 and list-2 and Assignment 2
+- [ ] Day 06 -  
+- [ ] Day 07 -
+- [ ] Day 08 -
+- [ ] Day 09 -
+- [ ] Day 10 -
 
 
-
+# I will start 30 day challenge after 17th day 
+ 
 
 ---
+
 
 ## 📝 Practice Rule
 - One topic per file  
