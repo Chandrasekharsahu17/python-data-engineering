@@ -49,7 +49,7 @@ labour_name_and_wage[0:2]=["Madhesh","Sudesh"]
 
 list_1=("Mahesh , Suresh , Mithilesh , Ramesh")
 list_2=list_1.split(",")
-logger.info(f"to check the split method in list {list_2}")
+# logger.info(f"to check the split method in list {list_2}")
 
 
 #changing the variable into list directly
@@ -57,9 +57,10 @@ logger.info(f"to check the split method in list {list_2}")
 
 a=("chandra sekhar sahu")
 a=list(a)
-print(a)
+# print(a)
 
-
+b=int(input("give a number:"))
+print(b)
 
 
 
