@@ -27,6 +27,10 @@ labour_names=labour_names+labour_2
 
 labour_wage=[500,300,800,600,400,200]
 
+labour_wage.sort()
+
+print(lab)
+
 labour_name_and_wage=labour_names+labour_wage
 
 # print(labour_name_and_wage)
